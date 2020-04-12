@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+* {
+  background-color: rgb(17, 16, 16);
+  font-family: "Amatic SC", cursive;
+}
+button {
+  width: 120px;
+  height: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 8px;
+  margin-right: 10px;
+  background-color: dimgrey;
+  border: 1px solid black;
+  font-size: 30px;
+  outline: none;
+}
+button:hover {
+  width: 125px;
+  height: auto;
+  background-color: rgb(116, 114, 114);
+  cursor: pointer;
+}
+h1 {
+  color: blanchedalmond;
+  font-size: 50px;
+}
